@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "First project for WDD-430",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jake Zalesny",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.12"
+  }
+}
